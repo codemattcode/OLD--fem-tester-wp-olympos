@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
-	<h1>Welcome to Olympos theme.</h1>
+	<h1>Ferociously Engaging Solutions</h1>
     <p>
-        You can delete this text in index.php
+        Elevator pitch to go here...
     </p>
 
-    
+
 <?php get_footer(); ?>
